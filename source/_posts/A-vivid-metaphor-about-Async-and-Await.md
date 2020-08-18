@@ -1,5 +1,6 @@
 ---
 title: 一个关于 Async/await 的生动比喻
+abbrlink: c9ed4755
 date: 2020-08-18 23:58:32
 tags:
 ---
