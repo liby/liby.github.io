@@ -1,27 +1,35 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
   "private": true,
+  "name": "liby-site",
+  "description": "Bryan Lee's blog",
+  "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
-  },
-  "hexo": {
-    "version": "4.2.1"
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "clean": "gatsby clean",
+    "proxy": "netlify-cms-proxy-server",
+    "lint": "prettier --write **/*.md **/*.json **/*.js"
   },
   "dependencies": {
-    "hexo": "^4.2.1",
-    "hexo-abbrlink": "^2.0.5",
-    "hexo-deployer-git": "^2.1.0",
-    "hexo-generator-archive": "^1.0.0",
-    "hexo-generator-category": "^1.0.0",
-    "hexo-generator-index": "^1.0.0",
-    "hexo-generator-tag": "^1.0.0",
-    "hexo-renderer-ejs": "^1.0.0",
-    "hexo-renderer-marked": "^2.0.0",
-    "hexo-renderer-stylus": "^1.1.0",
-    "hexo-server": "^1.0.0"
+    "@narative/gatsby-theme-novela": "^0.*",
+    "gatsby": "^2.13.41",
+    "gatsby-plugin-google-analytics": "^2.8.0",
+    "gatsby-plugin-manifest": "^2.2.4",
+    "gatsby-plugin-netlify-cms": "^4.1.40",
+    "gatsby-plugin-offline": "^3.7.1",
+    "gatsby-plugin-sitemap": "^2.9.0",
+    "netlify-cms-app": "^2.11.23",
+    "netlify-cms-proxy-server": "^1.1.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "homepage": "https://github.com/liby/liby.github.io#readme",
+  "keywords": [
+    "gatsby"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liby/liby.github.io.git"
   }
 }

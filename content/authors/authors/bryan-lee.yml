@@ -1,0 +1,8 @@
+name: Bryan Lee
+bio: |
+  Web Developer. Now prefer TypeScript and Rust, mainly working on UED.
+avatar: ./avatars/bryan-lee.jpeg
+social:
+  - url: https://github.com/liby
+  - url: https://twitter.com/Prirutsenie
+featured: true
