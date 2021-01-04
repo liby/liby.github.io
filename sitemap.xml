@@ -4,6 +4,7 @@
 <url> <loc>https://liby.github.io/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/from-c-to-the-front-end</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/quotation-from-a-androgynous</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://liby.github.io/about-fu-ta</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/a-vivid-metaphor-about-async-and-await</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/replace-git-checkout-with-git-switch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/switch-homebrew-to-ustc-mirror</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -11,7 +12,6 @@
 <url> <loc>https://liby.github.io/about-the-source-dot-zshrc-command</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/personal-configuration-of-some-dotfile-files</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/error-passing-arguments-when-calling-new-array-causes-typecript-to-throw-an-error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://liby.github.io/about-fu-ta</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/authors/bryan-lee</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://liby.github.io/authors/bryan-lee/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
