@@ -1,6 +1,6 @@
 ---
 title: 从 C++ 入门到前端
-slug: from-c-to-the-front-end
+slug: 2020-09-04-from-c-to-the-front-end
 author: Bryan Lee
 date: 2020-09-04
 hero: ./images/hero.jpeg

@@ -1,6 +1,6 @@
 ---
 title: Source 命令踩坑小记
-slug: about-the-source-dot-zshrc-command
+slug: 2020-05-27-about-the-source-dot-zshrc-command
 author: Bryan Lee
 date: 2020-05-27
 hero: ./images/hero.jpeg

@@ -1,6 +1,6 @@
 ---
 title: 使用 `git switch` 替代 `git checkout`
-slug: replace-git-checkout-with-git-switch
+slug: 2020-06-17-replace-git-checkout-with-git-switch
 author: Bryan Lee
 date: 2020-06-17
 hero: ./images/hero.jpeg

@@ -1,6 +1,6 @@
 ---
 title: 关于我个人的一些 `dotfile` 文件的配置
-slug: personal-configuration-of-some-dotfile-files
+slug: 2020-05-26-personal-configuration-of-some-dotfile-files
 author: Bryan Lee
 date: 2020-05-26
 hero: ./images/hero.jpeg
