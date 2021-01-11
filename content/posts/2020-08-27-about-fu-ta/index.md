@@ -1,6 +1,6 @@
 ---
 title: 关于「扶言扶语」
-slug: about-fu-ta
+slug: 2020-08-27-about-fu-ta
 author: Bryan Lee
 date: 2020-08-27
 hero: ./images/hero.jpeg

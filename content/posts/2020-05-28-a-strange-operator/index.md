@@ -1,6 +1,6 @@
 ---
 title: 一个奇怪的 shell 运算符 —— `>!`
-slug: a-strange-operator
+slug: 2020-05-28-a-strange-operator
 author: Bryan Lee
 date: 2020-05-28
 hero: ./images/hero.jpeg

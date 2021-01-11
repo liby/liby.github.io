@@ -1,6 +1,6 @@
 ---
 title: 一个关于 Async/await 的生动比喻
-slug: a-vivid-metaphor-about-async-and-await
+slug: 2020-08-18-a-vivid-metaphor-about-async-and-await
 author: Bryan Lee
 date: 2020-08-18
 excerpt: 这样的结果你只能喝到白开水，但是加上 await 就不同了

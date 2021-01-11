@@ -1,6 +1,6 @@
 ---
 title: 将 Homebrew 切换为 USTC Mirror
-slug: switch-homebrew-to-ustc-mirror
+slug: 2020-05-30-switch-homebrew-to-ustc-mirror
 author: Bryan Lee
 date: 2020-05-30
 hero: ./images/hero.jpeg

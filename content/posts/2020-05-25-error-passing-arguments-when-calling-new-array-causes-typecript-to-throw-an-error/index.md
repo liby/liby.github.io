@@ -1,6 +1,6 @@
 ---
 title: 记一次 new Array() 时错误传递参数导致 TypeScript 报错的来龙去脉
-slug: error-passing-arguments-when-calling-new-array-causes-typecript-to-throw-an-error
+slug: 2020-05-25-error-passing-arguments-when-calling-new-array-causes-typecript-to-throw-an-error
 author: Bryan Lee
 date: 2020-05-25
 hero: ./images/hero.jpeg

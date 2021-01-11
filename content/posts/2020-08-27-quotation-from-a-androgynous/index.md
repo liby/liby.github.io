@@ -1,6 +1,6 @@
 ---
 title: 从 Form 到 Model 层的讨论
-slug: quotation-from-a-androgynous
+slug: 2020-08-27-quotation-from-a-androgynous
 author: Bryan Lee
 date: 2020-08-27
 hero: ./images/hero.jpeg
