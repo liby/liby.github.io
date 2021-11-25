@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         name: `twitter`,
-        url: `https://bit.ly/354tc1i`,
+        url: `https://bit.ly/3CSfXii`,
       }
     ],
   },
