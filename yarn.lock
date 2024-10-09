@@ -942,11 +942,11 @@
     regenerator-runtime "^0.13.4"
 
 "@babel/runtime@^7.15.4":
-  version "7.18.3"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.18.3.tgz#c7b654b57f6f63cf7f8b418ac9ca04408c4579f4"
-  integrity sha512-38Y8f7YUhce/K7RMwTp7m0uCumpv9hZkitCbBClqQIow1qSbCvGkcegKOXpEWCQLfWmevgRiWokZ1GkpfhbZug==
+  version "7.25.7"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.25.7.tgz#7ffb53c37a8f247c8c4d335e89cdf16a2e0d0fb6"
+  integrity sha512-FjoyLe754PMiYsFaN5C94ttGiOmBNYTf6pLr4xXHAT5uctHb092PBszndLDR5XA/jghQvn4n7JMHl7dmTgbm9w==
   dependencies:
-    regenerator-runtime "^0.13.4"
+    regenerator-runtime "^0.14.0"
 
 "@babel/standalone@^7.12.6":
   version "7.12.12"
@@ -3351,9 +3351,9 @@ bail@^1.0.0:
   integrity sha512-xFbRxM1tahm08yHBP16MMjVUAvDaBMD38zsM9EMAUN61omwLmKlOpB/Zku5QkjZ8TZ4vn53pj+t518cH0S03RQ==
 
 balanced-match@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
-  integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
+  integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 base64-arraybuffer@0.1.4:
   version "0.1.4"
@@ -4727,7 +4727,7 @@ compression@^1.7.4:
 concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
-  integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
+  integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
 concat-stream@^1.4.7, concat-stream@^1.5.0:
   version "1.6.2"
@@ -7794,18 +7794,10 @@ gatsby-plugin-feed@2.3.7:
     lodash.merge "^4.6.2"
     rss "^1.2.2"
 
-gatsby-plugin-google-analytics@2.8.0:
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.8.0.tgz#abc6004d4b775dd8ef1fb85dc5e58bd5057d35b8"
-  integrity sha512-gPJU80Pj3yK9eUOLJrX3vRXYMXzWZW9nuvnExdpqUX1fnCDMmFSnRtwWkb3CFqXm9SfmfKl2V/A8KqKAttXcXg==
-  dependencies:
-    "@babel/runtime" "^7.12.5"
-    minimatch "3.0.4"
-
 gatsby-plugin-google-gtag@^4.16.0:
-  version "4.16.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-4.16.0.tgz#09cd2573ce5032eaf770910f6be2598ca1810a24"
-  integrity sha512-9F+rKY91FbGGi4DFYdV0F+scWoTOeQFJaS4Q0nIS4KTNPg/A2dyI/hTyFDfuwqZYbjtgFcqGfpm1cMgCkxBPeg==
+  version "4.25.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-4.25.0.tgz#cfea9ab34cb9c053440757e76f2863f2aad310bf"
+  integrity sha512-mzhjor5JYct1qQWLKayAHuyOHGHW3TT8Ns5fgdmSlqsmAR0X6dAh7zqSfqbvetGU309PZrRXeOrL92vjmeSIdQ==
   dependencies:
     "@babel/runtime" "^7.15.4"
     minimatch "^3.1.2"
@@ -15448,10 +15440,20 @@ regenerator-runtime@^0.11.0:
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz#be05ad7f9bf7d22e056f9726cee5017fbf19e2e9"
   integrity sha512-MguG95oij0fC3QV3URf4V2SDYGJhJnJGqvIIgdECeODCT98wSWDAJ94SSuVpYQUoTcGUIL6L4yNB7j1DFFHSBg==
 
-regenerator-runtime@^0.13.3, regenerator-runtime@^0.13.4:
+regenerator-runtime@^0.13.3:
   version "0.13.7"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.7.tgz#cac2dacc8a1ea675feaabaeb8ae833898ae46f55"
   integrity sha512-a54FxoJDIr27pgf7IgeQGxmqUNYrcV338lf/6gH456HZ/PhX+5BcwHXG9ajESmwe6WRO0tAzRUrRmNONWgkrew==
+
+regenerator-runtime@^0.13.4:
+  version "0.13.11"
+  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.11.tgz#f6dca3e7ceec20590d07ada785636a90cdca17f9"
+  integrity sha512-kY1AZVr2Ra+t+piVaJ4gxaFaReZVH40AKNo7UCX6W+dEwBo/2oZJzqfuN1qLq1oL45o56cPaTXELwrTh8Fpggg==
+
+regenerator-runtime@^0.14.0:
+  version "0.14.1"
+  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.14.1.tgz#356ade10263f685dda125100cd862c1db895327f"
+  integrity sha512-dYnhHh0nJoMfnkZs6GmmhFknAGRrLznOu5nc9ML+EJxGvrx6H7teuevqVqCuPcPK//3eDrrjQhehXVx9cnkGdw==
 
 regenerator-transform@^0.14.2:
   version "0.14.5"
